@@ -1,6 +1,6 @@
 # Data Science Dashboard (Power BI)
 
-#### Walkthrough Video [Download / View Video](./Resources%20/Data_Analysis_Power_Bi_Project_1.mov)
+#### Walkthrough Video [Download / View Video](./Data_Analysis_Power_Bi_Project_1.gif)
 
 <video controls src ="Resources /Data_Analysis_Power_Bi_Project_1.mov" title = "Walkthrough"> </Video>
 
